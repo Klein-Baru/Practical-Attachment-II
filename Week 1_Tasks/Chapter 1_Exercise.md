@@ -17,7 +17,7 @@
 
 ##### Exercise 4: Which of the following contains “machine code”?
 
-​                       The key board.
+​                       The keyboard.
 
 
 ##### Exercise 5: What is wrong with the following code:
