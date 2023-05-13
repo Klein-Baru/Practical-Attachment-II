@@ -86,7 +86,7 @@
 
 - *The interpreter may offer a suggestion that you can use.*
 
- ![Alt text](https://github.com/Klein-Baru/Practical-Attachment-II/blob/main/Week%201_Tasks/Images/automatic%20suggestion.jpg)
+  ![Alt text](https://github.com/Klein-Baru/Practical-Attachment-II/blob/main/Week%201_Tasks/Images/automatic%20suggestion.jpg)
 
 - *On the command line, type **py** then **type help(<the term you misspelt>)** and the interpreter will offer suggestions.*
 
@@ -94,4 +94,4 @@
 
 - *You can look up the syntax error online where some sites such as stackoverflow.com provide solutions to programmers normally by fellow programmers.*
 
-   ![Alt text](https://github.com/Klein-Baru/Practical-Attachment-II/blob/main/Week%201_Tasks/Images/google_online_stackoverflow.jpg)
+  ![Alt text](https://github.com/Klein-Baru/Practical-Attachment-II/blob/main/Week%201_Tasks/Images/google_online_stackoverflow.jpg)
