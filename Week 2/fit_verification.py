@@ -23,4 +23,4 @@ plt.plot(df["x"], y)  # line of best fit
 
 plt.show()
 
-print("The equation is thus verified!!!")
+print("The equation is thus verified; the graph generated is almost similar Fig 1.5!!!")
