@@ -9,3 +9,5 @@ Why the title Project D-Cube? The project title is inspired by the barebone step
 This project is being done in conjunction, collaboration and supervision by [Jason N. Kabi.](https://www.linkedin.com/in/kabi-jason-b14b68164)
 
 ### <mark> The project is at its early planning stages, watch this project for exclusive tech!!!</mark>
+## In the mean-time, study the project plan to get a gist of the milestones to be covered!!
+![Alt text](https://github.com/Klein-Baru/Practical-Attachment-II/blob/main/Project%20D-Cube/Images%20and%20Videos/mindmap.jpg)
